@@ -1,0 +1,200 @@
+div
+{
+    padding: 0px;
+}
+.Top-Right-Image
+{
+    height: 567px;
+    width: 509px;
+    padding-top: 0px;
+}
+.Top-Right
+{
+position: absolute;
+right: 0px;
+}
+.Swiggy-logo
+{
+    height: 86px;
+    width: 200px;
+    padding-left: 20px;
+}
+.top-button-login:hover
+{
+    color: rgb(252,128,25);
+    transition: 350ms;
+}
+.top-button-login
+{
+    height: 40px;
+    width: 110px;
+    position: absolute;
+    top: 30px;
+    left: 450px;
+    background: transparent;
+    border: none;
+    font-weight: 900;
+    cursor: pointer;
+}
+.top-button-signup:hover
+{
+    color: black;
+    background-color: white;
+    border: solid black 2px;
+    transition: 900ms;
+}
+.top-button-signup
+{
+    height: 40px;
+    width: 110px;
+    position: absolute;
+    top: 30px;
+    left: 560px;
+    background: black;
+    color: white;
+    border: none;
+    font-weight: 900;
+    cursor: pointer;
+}
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto:wght@100&display=swap');
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.top-middle-h1
+{
+    padding-left: 40px;
+    font-size: 40px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+.top-middle-h2
+{
+    color: gray;
+    padding-left: 40px;
+    padding-top: 0px; ;
+    margin: 0px;
+}
+#Text-input
+{
+    height: 60px;
+    width: 480px;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: px;
+}
+.middle-down-button
+{
+    height: 66px;
+    width: 140px;
+    background:rgb(252,128,25) ;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 750;
+    cursor:pointer;
+}
+.middle-down-button:hover
+{
+    color: rgb(252,128,25);
+    background: white;
+    
+    border: rgb(252,128,25) solid 2px;
+    transition: 900ms;
+}
+.top-middle-down
+{
+    padding-left: 40px;
+    padding-top: 40px; ;
+}
+.top-popcity
+{
+    color: gray;
+    margin-left: 40px;
+    font-size: 14px;
+    padding-top: 20px;
+}
+.top-popularcity
+{
+    color: gray;
+    margin-left: 40px;
+    font-size: 14px;
+    padding-top: 7px;
+}
+.mid
+{
+    background-color: rgb(43,30,22);
+    margin-top: 160px;
+}
+.mid-mig
+{
+    text-align: center;
+    width: 100px;
+    height: 200px;
+    margin-left: 150px;
+}
+.mid-h2
+{
+    color: white;
+    margin: 0px 75px 0px 75px;
+}
+.mid-p
+{
+    Color:rgb(224,165,104);
+    margin: 0px 55px 0px 55px;
+    text-align: center;
+}
+.bottom
+{
+    background-image: url(/css/Swiggy/Bottem\ Image.png);
+    height: 580px;
+    background-size: contain;
+}
+.bottom-h1
+{
+    padding-left: 40px;
+    padding-top: 170px;
+    font-size: 40px;
+}
+.bottom-p
+{
+    padding-left: 40px;
+    color: gray;
+    font-size: 20px;
+}
+.apple
+{
+    font-size: 50px;
+    width: 40px;
+}
+.div-apple
+{
+    padding-left: 40px;
+}
+.apple-p
+{
+    width: fit-content;
+    padding: 0px;
+    margin: 0px;
+}
+.google-l
+{
+    font-size: 50px;
+    width: fit-content;
+    padding-left: 20px;
+    margin: 0px;
+}
+.google
+{
+    width: fit-content;
+    padding-left: 20px;
+    margin: 0px;
+}
+.google-p
+{
+    width: fit-content;
+    padding-left: 20px;
+    margin: 0px;
+}
